@@ -32,7 +32,7 @@ export class KonwledgeComponent {
       alt: 'Ícone de conhecimento de nodejs',
     },
     {
-      src: 'assets/icons/knowledge/csharp.svg',
+      src: 'assets/icons/knowledge/c_sharp.jpg',
       alt: 'Ícone de conhecimento de C#',
     },
   ])
