@@ -31,6 +31,10 @@ export class KonwledgeComponent {
       src: 'assets/icons/knowledge/nodejs.svg',
       alt: 'Ícone de conhecimento de nodejs',
     },
+    {
+      src: 'assets/icons/knowledge/csharp.svg',
+      alt: 'Ícone de conhecimento de C#',
+    },
   ])
 
 }
